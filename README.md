@@ -16,6 +16,6 @@ The sample file is "QRISdata/Q5755/SHOR-0013/fastq_files/230201_NS500239_0527_AH
 
 The codes for this step is in "sum.py". The output file from STAR is named "out_prefixReadsPerGene.out.tab"
 
-**Step 4. Create the heatmap
+**Step 4. Create the heatmap**
 
 The codes for this step is in "heatmap.py". The codes uses the output from step 3 "sum_gene.csv" to creat the heatmap
