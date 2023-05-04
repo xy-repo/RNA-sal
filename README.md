@@ -2,7 +2,7 @@
 
 **Step 1. Download the reference geonme hg38 and build index using STAR**
 
-Download both the gtf adn fasta file of hg38 and run STAR index built mode. The code to run STAR is in "build_index.sh"
+Download both the gtf and fasta file of hg38 and run STAR index built mode. The code to run STAR is in "build_index.sh"
 
 The fasta file is "/QRISdata/Q5755/hg38/hg38.fa" and the annotation file is "/QRISdata/Q5755/hg38/gencode.v43.annotation.gtf"
 
